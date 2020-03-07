@@ -1,2 +1,1 @@
-# box35
-Rotating box
+# Box Class
